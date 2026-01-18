@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MR X - Cybersecurity Voice Assistant",
+  "description": "An advanced AI voice and text agent specializing in cybersecurity, ethical hacking awareness, and digital safety.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
